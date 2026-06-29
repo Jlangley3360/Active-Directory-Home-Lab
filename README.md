@@ -34,7 +34,7 @@ both running on the ADLab NAT Network*
 and running on Windows Server 2022*
 
 ## Active Directory Users and Computers
-![ADUC User List](IMG_7319.jpeg)
+![ADUC User List](IMG_7317.jpeg)
 *Active Directory Users and Computers showing the lab.local domain 
 with John Smith created as a domain user*
 
@@ -44,7 +44,7 @@ with John Smith created as a domain user*
 (jsmith@lab.local) and account configuration options*
 
 ## Client Machine — Logged in as Domain User
-![John Smith Start Menu](IMG_7317.jpeg)
+![John Smith Start Menu](IMG_7319.jpeg)
 *Windows 10 Client01 Start Menu showing John Smith logged in 
 as a domain user*
 
